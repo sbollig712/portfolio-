@@ -3,7 +3,7 @@
 ### Education
 International Business, BSc
 
-General Studies AA
+General Studies, AA
 
 Google Data Analytics Advanced Certification
 
